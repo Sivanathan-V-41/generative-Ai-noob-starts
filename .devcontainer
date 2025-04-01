@@ -1,1 +1,86 @@
 
+# Generative-AI-Noob-Starts - Your Ultimate Guide to AI Creation
+
+Welcome to **Generative-AI-Noob-Starts**, a beginner-friendly guide designed to help you dive into the world of Generative AI. Whether you're a newcomer or an aspiring developer, this 21-lesson journey will equip you with the essential knowledge to build and deploy AI-powered applications.
+
+## 🚀 Why This Course?
+- **Comprehensive Learning:** Covers fundamental concepts, coding, and real-world applications.
+- **Hands-on Experience:** Includes coding exercises in **Python** and **TypeScript**.
+- **Community Support:** Engage with like-minded learners and AI professionals.
+- **Project-Based Approach:** Develop AI-powered applications as you progress.
+
+---
+
+## 🌱 Getting Started
+
+Each lesson is self-contained, meaning you can start from any topic that interests you. Lessons are categorized into **Learn** and **Build** sections:
+
+- **Learn:** Deep dives into key AI concepts.
+- **Build:** Hands-on coding exercises to implement what you've learned.
+
+💡 **No prior AI experience needed!** However, basic knowledge of **Python** or **TypeScript** is recommended. If you're a total beginner, check out these **[Python](https://aka.ms/genai-beginners/python)** and **[TypeScript](https://aka.ms/genai-beginners/typescript)** courses.
+
+### 🛠 What You Need
+To complete this course, you’ll need:
+- Access to **Azure OpenAI**, **GitHub Marketplace Model Catalog**, or **OpenAI API**.
+- A **GitHub account** to fork and work on projects.
+- A local or cloud-based development environment (VS Code recommended).
+
+📝 **Check out the [Course Setup Guide](./00-course-setup/README.md)** for a step-by-step installation walkthrough.
+
+---
+
+## 📌 Course Outline
+
+| #  | Lesson Title | Description | Format |
+|----|-------------|-------------|--------|
+| 01 | Introduction to Generative AI | Learn about AI & Large Language Models | Video + Docs |
+| 02 | Comparing Different AI Models | Select the best model for your needs | Video + Docs |
+| 03 | AI Ethics & Responsible AI | Explore ethical AI practices | Video + Docs |
+| 04 | Prompt Engineering Basics | Learn to craft effective prompts | Video + Code |
+| 05 | Advanced Prompt Techniques | Optimize AI output with prompts | Video + Code |
+| 06 | Building Text-Based AI Apps | Create text-generation applications | Video + Code |
+| 07 | Creating AI-Powered Chatbots | Develop an interactive chatbot | Video + Code |
+| 08 | Vector Databases & AI Search | Implement search with AI embeddings | Video + Code |
+| 09 | AI-Generated Image Creation | Build an AI-based image generator | Video + Code |
+| 10 | Low-Code AI Development | No-code solutions for AI apps | Video + Docs |
+| 11 | Function Calling & APIs | Integrate external data sources | Video + Code |
+| 12 | UX Design for AI Apps | Learn AI-friendly design principles | Video + Docs |
+| 13 | Securing AI Applications | Protect AI systems from threats | Video + Docs |
+| 14 | AI Lifecycle & Optimization | Manage AI models efficiently | Video + Docs |
+| 15 | Retrieval-Augmented Generation (RAG) | Enhance AI search capabilities | Video + Code |
+| 16 | Open-Source AI Models | Work with Hugging Face models | Video + Code |
+| 17 | AI Agents & Automation | Build AI-powered assistants | Video + Code |
+| 18 | Fine-Tuning AI Models | Customize models for better performance | Video + Code |
+| 19 | Small Language Models (SLMs) | Learn benefits of lightweight AI models | Video + Docs |
+| 20 | Working with Mistral Models | Implement Mistral AI capabilities | Video + Code |
+| 21 | Meta AI Models & Applications | Explore Meta's AI models | Video + Code |
+
+---
+
+## 🎯 Ready to Deploy?
+If you're eager to take your AI applications to the next level, check out our **[Advanced AI Code Samples](https://aka.ms/genai-beg-code)** for hands-on projects in **Python** and **TypeScript**.
+
+---
+
+## 🗣️ Join the AI Community
+
+Stay connected with other AI enthusiasts:
+- Join our **[AI Discord Server](https://aka.ms/genai-discord)** to share ideas and get support.
+- Collaborate on open-source AI projects and contribute via **GitHub**.
+
+---
+
+## 🚀 AI for Startups
+If you’re an entrepreneur building an AI-based startup, apply for **[Microsoft for Startups Founders Hub](https://aka.ms/genai-foundershub)** to receive **free OpenAI credits** and **up to $150,000 in Azure credits**.
+
+---
+
+## 🤝 How to Contribute
+We welcome feedback and contributions! If you spot errors or have suggestions, feel free to:
+- **[Open an Issue](https://github.com/microsoft/generative-ai-for-beginners/issues)**
+- **[Submit a Pull Request](https://github.com/microsoft/generative-ai-for-beginners/pulls)**
+
+Let’s learn, build, and innovate together in **Generative-AI-Noob-Starts**! 🚀
+
+
